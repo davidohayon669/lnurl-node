@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+*.md
+LICENSE
+prettier.config.js
+.github
+.gitignore
